@@ -1,0 +1,10 @@
+*~
+*.DS_Store
+*.class
+*java#
+*.classpath
+*.project
+*.settings
+tests/bin
+tests/gen
+target/
